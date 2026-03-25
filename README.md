@@ -11,7 +11,7 @@
 - 🐦 Twitter: https://x.com/GinotusXyz  
 - 🌍 Website: https://ginotus.xyz/
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : FP998BR4WtFPUeakearjHVs7AuLvswHHiELiGQtvpump
 ---
 
 ## ✨ Overview
