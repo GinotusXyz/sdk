@@ -1,118 +1,55 @@
-# Ginotus
+# 🚀 Ginotus
 
-**Ginotus** is a production‑grade agent stack that transforms natural language into real onchain execution.
+**Ginotus** is a production-grade agent stack that transforms natural language into real onchain execution.
+
+> From intent → to execution — seamlessly on blockchain.
+
+---
+
+## 🌐 Links
+
+- 🐦 Twitter: https://x.com/GinotusXyz  
+- 🌍 Website: https://ginotus.xyz/
 
 CA pump.fun : xxxxxxxxxxpump
 ---
 
-## 🚀 Overview
+## ✨ Overview
 
-Ginotus enables users and developers to interact with blockchain systems using simple, human language. Instead of writing complex smart contract interactions, Ginotus agents understand intent and execute transactions seamlessly onchain.
+Ginotus is designed to bridge the gap between human intent and blockchain interaction.
 
----
-
-## ✨ Features
-
-* 🧠 Natural Language → Onchain Execution
-* ⚡ Real-time agent-based automation
-* 🔗 Multi-chain compatibility
-* 🔐 Secure transaction handling
-* 🛠️ Developer-friendly architecture
+Instead of writing complex smart contract calls or scripts, users can simply express what they want in natural language — and Ginotus agents handle the rest.
 
 ---
 
-## 🧩 Use Cases
+## 🧠 Key Features
 
-* Automated DeFi trading strategies
-* Wallet management via chat
-* DAO governance interactions
-* Onchain automation workflows
-* AI-powered crypto assistants
+- 🗣 **Natural Language Interface**  
+  Execute blockchain actions using plain English
 
----
+- ⚡ **Real Onchain Execution**  
+  Direct interaction with smart contracts and protocols
 
-## 📦 Tech Stack
+- 🤖 **Agent-Based Architecture**  
+  Modular agents specialized for different tasks
 
-* AI Agents & LLM Integration
-* Blockchain Infrastructure
-* Smart Contract Execution Layer
-* API & SDK Support
+- 🔗 **Multi-Tool Integration**  
+  Connects with wallets, APIs, and onchain data sources
 
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/ginotus.git
-cd ginotus
-npm install
-```
+- 🛡 **Production-Grade Infrastructure**  
+  Built for reliability, scalability, and security
 
 ---
 
-## ▶️ Usage
-
-```bash
-npm run dev
-```
-
-Example:
+## 🏗 Architecture
 
 ```text
-"Swap 1 ETH to USDC on Uniswap"
-```
-
-Ginotus will:
-
-1. Understand the intent
-2. Prepare the transaction
-3. Execute it securely onchain
-
----
-
-## 📂 Project Structure
-
-```
-ginotus/
-├── src/
-│   ├── agents/        # AI agent logic
-│   ├── core/          # Core execution engine
-│   ├── integrations/  # Blockchain & APIs
-│   ├── utils/         # Helper functions
-│   └── index.ts       # Entry point
-├── public/
-├── package.json
-├── tsconfig.json
-└── README.md
-```
-
----
-
-## 🔗 Links
-
-* 🌐 Website: [https://ginotus.xyz/](https://ginotus.xyz/)
-* 🐦 Twitter/X: [https://x.com/GinotusXyz](https://x.com/GinotusXyz)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-MIT License © Ginotus
-
----
-
-## 💡 Vision
-
-Ginotus aims to bridge the gap between humans and blockchain by making onchain interactions as simple as speaking.
+User Input (Natural Language)
+        ↓
+Intent Parsing Layer
+        ↓
+Agent Orchestration Engine
+        ↓
+Execution Layer (Smart Contracts / APIs)
+        ↓
+Onchain Transaction
